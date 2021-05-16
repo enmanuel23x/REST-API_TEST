@@ -41,6 +41,6 @@ module.exports = {
 
 #### Recomendaciones
  - *(Se recomienda leer mas en la **[documentación del servicio en POSTMAN ](https://app.getpostman.com/join-team?invite_code=0905f3f26debaf83977364f53288495c&ws=7b47ca72-f18e-462c-ae8f-e99c7d80ce98)**.)*.
- - *(Se recomienda leer mas en EL README.md en el repositorio **[front-end](http://localhost:2001)**.)*.
- - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio SOAP](http://localhost:2001)**.)*.
+ - *(Se recomienda leer mas en EL README.md en el repositorio **[front-end](https://github.com/enmanuel23x/FRONT-END-TEST)**.)*.
+ - *(Se recomienda leer mas en EL README.md en el repositorio **[servicio SOAP](https://github.com/enmanuel23x/SOAP-API-TEST)**.)*.
 
